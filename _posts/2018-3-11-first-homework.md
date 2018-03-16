@@ -15,18 +15,18 @@ COCOMO 模型（Constructive Cost Model，中文为结构性成本模型）它�
 ### 3.软件生命周期
 计算机软件有一个孕育、诞生、成长、成熟、衰亡的生存过程，即软件的生命周期 (也称软件开发生命周期SDLC或软件开发过程)。软件生命周期被划分为若干阶段，每个阶段有明确的任务，从而使规模、结构和管理复杂的软件开发过程得到适当的控制和管理。软件生命周期包括可行性分析与开发计划、需求分析、设计 (概要设计和详细设计)、编码实现、测试、运行与维护等活动，将这些活动以适当的方式分配到不同的阶段去完成。
 ### 4.按照 SWEBok 的 KA 划分，本课程关注哪些 KA 或 知识领域？
-*Software Requirements（软件需求）
-*Software Design（软件设计）
-*Software construction(软件构筑）
-*Software engineering models and methods（软件工程工具与方法）
+* Software Requirements（软件需求）
+* Software Design（软件设计）
+* Software construction(软件构筑）
+* Software engineering models and methods（软件工程工具与方法）
 
 ### 5.解释 CMMI 的五个级别。例如：Level 1 - Initial：无序，自发生产模式。
 CMMI(Capability Maturity Model Integration，即能力成熟度模型集成).
-*Level 1 - Initial(初始级）：无序，自发生产模式。
-*Level 2 - Managed（可管理级）:建立了比较基础的项目管理规范，可对项目实施监控和控制。
-*Level 3 - Defined（已定义级）:软件产品的生成过程，可见可控，形成企业文化。
-*Level 4 - Quantitatively Managed（量化管理级）:企业的项目管理完善，可以实现量化、数字化、具体化，对软件过程和产品精度都有定量的控制。
-*Level 5 - Optimizing（优化管理级）：最高境界。企业能够非常主动的来对流程进行一定程度的改善，将更加先进的技术运用到其中，让流程优化上升到一个更高的层次，还可实现预防。
+* Level 1 - Initial(初始级）：无序，自发生产模式。
+* Level 2 - Managed（可管理级）:建立了比较基础的项目管理规范，可对项目实施监控和控制。
+* Level 3 - Defined（已定义级）:软件产品的生成过程，可见可控，形成企业文化。
+* Level 4 - Quantitatively Managed（量化管理级）:企业的项目管理完善，可以实现量化、数字化、具体化，对软件过程和产品精度都有定量的控制。
+* Level 5 - Optimizing（优化管理级）：最高境界。企业能够非常主动的来对流程进行一定程度的改善，将更加先进的技术运用到其中，让流程优化上升到一个更高的层次，还可实现预防。
 
 ### 6.用自己语言简述 SWEBok 或 CMMI （约200字）
 
