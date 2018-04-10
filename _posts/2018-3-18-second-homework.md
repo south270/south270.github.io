@@ -53,4 +53,4 @@ tags: 博客
 - 每个人的任务是1-2项。
 - 至少包含一个团队活动任务
 
-![项目管理截图](../image/tower.png)
+![项目管理截图](https://github.com/fluidicon.png)
