@@ -54,10 +54,10 @@ home:
 blog:
   cc_license:  http://creativecommons.org/licenses/by-sa/4.0/
   cc_license_image: /assets/images/theme/cc-by-sa.png
-  footer_content: V is my learning record.
+  footer_content: This is my learning record.
 
 disqus:
-  shortname: bryceyang
+  shortname: south270
   public_key: M1l4mNuPXdbLDtEyyCiWh6LN7HApjJEKtAtLStTeow2EGcPpw5dMpJMKe0sstvDO
 google_analytics: 'UA-100095499-1'
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
