@@ -21,22 +21,22 @@ sass:
   style: compressed
 
 # Site Data
-  url: "https://bryceyang.github.io" 
+  url: "https://south270.github.io" 
 # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: /
-title: V
-description: "V is my learning record."
+title: South'home
+description: "This is my learning record."
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name: KAI
+  name: South270
   job_title:
   location:
-  email: yaakire@gmail.com
+  email: 634838533@qq.com
   social_links:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/bryceyang
+      url: https://github.com/south270
     - name: instagram
       url:
     - name: linkedin
@@ -48,8 +48,8 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>V</h1>
-  section2: <h2>V is my learning record.</h2>
+  section1: <h1>South’home</h1>
+  section2: <h2>This is my learning record.</h2>
  #section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/bryceyang/bryceyang.github.io" title="View on GitHub"></a></div>
 blog:
   cc_license:  http://creativecommons.org/licenses/by-sa/4.0/
@@ -64,6 +64,6 @@ addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
 paths:
   home: /
-  blog: /blog/
-  categories: /blog/categories/
-  tags: /blog/tags/
+  blog: /
+  categories: /categories/
+  tags: /tags/
