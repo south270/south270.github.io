@@ -53,4 +53,4 @@ tags: 博客
 - 每个人的任务是1-2项。
 - 至少包含一个团队活动任务
 
-![](../image/tower.png)
+![](https://github.com/south270/south270.github.io/blob/master/image/tower.png)
