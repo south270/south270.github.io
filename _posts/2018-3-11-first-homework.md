@@ -2,7 +2,7 @@
 layout: post
 title: 系统分析与设计第一次作业
 date: 2018-3-11 13:37:10+00:00
-categories: 日志
+categories: 系分作业
 tags: 博客
 ---
 ## 一、简单题
