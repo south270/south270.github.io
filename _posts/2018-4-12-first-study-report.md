@@ -51,6 +51,15 @@ tags: 博客
 
 @SpringBootApplication是Spring Boot 项目的核心注解，主要目的是开启自动配置。main方法是一个标准的Java应用的main方法，主要作用是作为项目启动的入口。
 
+* 运行项目
+
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/9.png?raw=true)
+我们可以看到idea将项目部署在tomcat上，并且运行在端口8080
+
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/10.png?raw=true)
 
 这样我们就简单的创建了一个基于SpringBoot的java web项目。
+
+## 三、命令行运行项目
+
 
