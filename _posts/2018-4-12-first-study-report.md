@@ -62,4 +62,22 @@ tags: 博客
 
 ## 三、命令行运行项目
 
+* 进入项目所在文件夹
+
+### 1.第一种：直接使用mvn 运行
+
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/11.png?raw=true)
+
+### 2.第二种：生成jar包运行
+* 生成jar包
+
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/12.png?raw=true)
+
+* 打开target文件夹
+
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/13.png?raw=true)
+
+* 运行jar包
+
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/14.png?raw=true)
 
