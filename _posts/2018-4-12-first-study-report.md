@@ -14,10 +14,10 @@ tags: 博客
 ### 1.配置
 * jdk
 
-![](https://github.com/south270/south270.github.io/blob/master/image/report1/1.png)
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/1.png?raw=true)
 * maven
 
-![](https://github.com/south270/south270.github.io/blob/master/image/report1/2.png)
+![](https://github.com/south270/south270.github.io/blob/master/image/report1/2.png?raw=true)
 * IDEA: 按照安装步骤就行安装成功后，配置好jdk
 
 ### 2.Hello World
