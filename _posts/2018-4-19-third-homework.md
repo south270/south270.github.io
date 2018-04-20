@@ -38,7 +38,16 @@ tags: 博客
 |5|支付|30|5|用户可根据实际情况选择支付方式进行支付|注意支付结果的反馈，与支付平台的联系以及用户信息的保护|
 ## 二、业务建模
 ### 1.  在（任务b）基础上，用活动图建模找酒店用例。简述利用流程图发现子用例的方法。
+
+<div align="center"><img width="500" height="300" src="https://github.com/south270/south270.github.io/blob/master/image/h3/3.png?raw=true"></div>
+
 ### 2. 选择你身边的银行 ATM，用活动图描绘取款业务流程
-### 3. 查找淘宝退货业务官方文档，使用多泳道图，表达客户、淘宝网、淘宝商家服务系统、商家等用户和系统协同完成退货业务的过程。分析客户要完成退货业务，在淘宝网上需要实现哪些系统用例
+
+<div align="center"><img width="500" height="300" src="https://github.com/south270/south270.github.io/blob/master/image/h3/4.png?raw=true"></div>
+
+### 3. 查找淘宝退货业务官方文档，使用多泳道图，表达客户、淘宝网、淘宝商家服务系统、商家等用户和系统协同完成退货业务的过程。分析客户要完成退货业务，在淘宝网上需要实现哪些系统用例。
+
+<div align="center"><img width="500" height="300" src="https://github.com/south270/south270.github.io/blob/master/image/h3/5.png?raw=true"></div>
+
 ## 三、用例文本编写
 ### 1. 在大作业基础上，分析三种用例文本的优点和缺点
