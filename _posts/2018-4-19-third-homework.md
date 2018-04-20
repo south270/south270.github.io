@@ -8,16 +8,17 @@ tags: 博客
 
 ## 一、用例建模
 ### 1.  阅读 Asg_RH 文档，绘制用例图。 按 Task1 要求，请使用工具 UMLet，截图格式务必是 png 并控制尺寸
-<div align="center">
-<img src="https://github.com/south270/south270.github.io/blob/master/image/h3/1.png?raw=true" width=50%>
-</div>
+
+<div align="center"><img src="https://github.com/south270/south270.github.io/blob/master/image/h3/1.png?raw=true" width=50%></div>
 
 ### 2. 选择你熟悉的定旅馆在线服务系统（或移动 APP），如绘制用例图。并满足以下要求：
+#### 　　- 对比 Asg_RH 用例图，请用色彩标注出创新用例或子用例
+#### 　　- 尽可能识别外部系统，并用色彩标注新的外部系统和服务
+
+- 以下为携程旅行预订酒店的用例图：
 
 <img src="https://github.com/south270/south270.github.io/blob/master/image/h3/2.png?raw=true" >
 
-#### 　　- 对比 Asg_RH 用例图，请用色彩标注出创新用例或子用例
-#### 　　- 尽可能识别外部系统，并用色彩标注新的外部系统和服务
 ### 3. 对比两个时代、不同地区产品的用例图，总结在项目早期，发现创新的思路与方法
 ### 4. 请使用 SCRUM 方法，在（任务b）用例图基础上，编制某定旅馆开发的需求 （backlog）
 ## 二、业务建模
