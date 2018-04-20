@@ -20,7 +20,7 @@ tags: 博客
 <img src="https://github.com/south270/south270.github.io/blob/master/image/h3/2.png?raw=true" >
 </div>
 
-- ![点击此处查看携程旅行]：http://hotels.ctrip.com/
+- [点击此处查看携程旅行](http://hotels.ctrip.com/)
 
 ### 3. 对比两个时代、不同地区产品的用例图，总结在项目早期，发现创新的思路与方法
 ### 4. 请使用 SCRUM 方法，在（任务b）用例图基础上，编制某定旅馆开发的需求 （backlog）
