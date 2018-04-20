@@ -39,7 +39,7 @@ tags: 博客
 
 
 | ID | Name  | Imp | ha|
-| :------------ |:--------------|: -----|---|
+| :------------ |:--------------|: -----|:---|
 | col 3 is      | some wordy text | $1600 |s|
 | col 2 is     | centered        |   $12 |y|
 | zebra stripes | are neat        |    $1 |d|
