@@ -15,7 +15,7 @@ tags: 博客
   
 **答：**
 
-<img src="https://github.com/south270/south270.github.io/blob/master/image/h4/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png?raw=true" width=90%>
+<img src="https://github.com/south270/south270.github.io/blob/master/image/h4/%E9%A2%86%E5%9F%9F%E6%A8%A1%E5%9E%8B.png?raw=true">
 
 ### b.数据库建模(E-R 模型)
 - 按 Task 3 要求，给出系统的 E-R 模型（数据逻辑模型）
@@ -26,7 +26,7 @@ tags: 博客
 
 **答：**
 - 系统的 E-R 模型（数据逻辑模型）:
-<img src="https://github.com/south270/south270.github.io/blob/master/image/h4/%E9%80%BB%E8%BE%91%E6%A8%A1%E5%9E%8B.png?raw=true" width=90%>
+<img src="https://github.com/south270/south270.github.io/blob/master/image/h4/%E9%80%BB%E8%BE%91%E6%A8%A1%E5%9E%8B.png?raw=true">
 
 - 导出 Mysql 物理数据库的脚本 :
 
