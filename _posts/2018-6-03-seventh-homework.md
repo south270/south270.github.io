@@ -49,6 +49,6 @@ tags: 博客
   - modules：主要用来拆分state
  - vueComnent——>(dispatch)Action——>（commit）——>Mutations——>（mutate）State——>（render）VueComponent
  
- #### 2.Flux
+ #### Flux状态管理
  - 分为四层：视图层（view），动作层（action），派发层（dispatcher）和仓库层（store），专门用来构建前端框架结构，便于维护.
  - 数据流的顺序为：view——>action——>dispatcher——>store返回——>dispatcher——>view(接收的方法：register（）)
