@@ -25,5 +25,8 @@ tags: 博客
 ### 二、以你的项目为案例
 - 绘制三层架构模型图，细致到分区
 - 结合你程序的结构，从程序员角度说明三层架构给开发者带来的便利
+![](https://github.com/south270/south270.github.io/blob/master/image/h7/%E4%B8%89%E5%B1%82%E6%9E%B6%E6%9E%84%E5%9B%BE.png?raw=true)
 
+- 三层架构给开发者带来的便利：
+  
 ### 三、研究 VUE 与 Flux 状态管理的异同
