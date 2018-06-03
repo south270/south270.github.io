@@ -37,7 +37,8 @@ tags: 博客
   
 ### 三、研究 VUE 与 Flux 状态管理的异同
 
-#### 1.vuex专门为vue提供的状态管理工具
+**1.vuex专门为vue提供的状态管理工具**
+
 - 便于维护，保证安全，解决状态之间共享的问题。
 - 集中式存储管理应用的所有组件的状态。
 - 多个组件调用一个状态，将原来组件与状态传递改成组件与仓库store之间的传递
@@ -49,6 +50,7 @@ tags: 博客
   - modules：主要用来拆分state
  - vueComnent——>(dispatch)Action——>（commit）——>Mutations——>（mutate）State——>（render）VueComponent
  
- #### Flux状态管理
+ **2. Flux状态管理**
+ 
  - 分为四层：视图层（view），动作层（action），派发层（dispatcher）和仓库层（store），专门用来构建前端框架结构，便于维护.
  - 数据流的顺序为：view——>action——>dispatcher——>store返回——>dispatcher——>view(接收的方法：register（）)
