@@ -48,7 +48,7 @@ tags: 博客
   - getters：将state中某个状态进行过滤，然后获取新的状态，类似于vue中的computed
   - actions：用于调用事件动作，并传递给mutation
   - modules：主要用来拆分state
- - vueComnent——>(dispatch)Action——>（commit）——>Mutations——>（mutate）State——>（render）VueComponent
+ - vueComponent——>(dispatch)Action——>（commit）——>Mutations——>（mutate）State——>（render）VueComponent
  
    ![](https://github.com/south270/Image/blob/master/blog/vuex.png?raw=true)
  
