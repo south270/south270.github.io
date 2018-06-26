@@ -20,3 +20,4 @@ tags: 博客
 ![](https://github.com/south270/south270.github.io/blob/master/image/h8/2.png?raw=true)
 
 ### 二、将逻辑设计类图映射到实际项目框架的包图。用树形结构表述实现的包和类
+![](https://github.com/south270/south270.github.io/blob/master/image/h8/5.png?raw=true)
