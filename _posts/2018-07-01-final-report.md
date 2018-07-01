@@ -1,7 +1,17 @@
 ## 课程总结 ——Eorder项目开发总结
 
-### 一、自我总结
+[一、自我总结](#1)
 
+[二、PSP 2.1 统计表](#2)
+
+[三、个人分支的 GIT 统计报告](#3)
+
+[四、工作清单](#4)
+
+[五、个人博客](#5)
+
+<h3 id="1"> 一、自我总结 </h3>
+ 
 - 这是第一次学习如何完整的开发、设计、实现一个项目，我深刻的体会到了在项目前期，需求分析以及架构的设计对于后期开发的帮助，如果前期的数据库设计及包、类的划分的设计能够比较合理，那么对与后期代码的开发及维护是有很大的帮助。
 
 - 这次后端的代码在总体架构上来说出现的问题比较少，我们选用了SpringBoot框架对于JavaWeb项目的开发，springboot自带的一些插件对于我们代码的完成及功能的实现有很大的帮助，比如说lombok，jpa，redis，websocket等等。
@@ -12,8 +22,8 @@
 
 
 
+<h3 id="2"> 二、PSP 2.1 统计表 </h3>
 
-### 二、PSP 2.1 统计表
 
 PSP2.1       | Personal Software Process Stages| Time (%) Senior Student |
 ------------ | ------------------------------- | ----------------------- |
@@ -33,15 +43,17 @@ Test Report | 测试报告 | 0 |
 Size Measurement | 计算工作量 | 1 |
 Postmortem & Process Improvement Plan| 事后总结, 并提出过程改进计划 | 4 |
 
-### 三、个人分支的 GIT 统计报告
+<h3 id="3"> 三、个人分支的 GIT 统计报告 统计表 </h3>
 
 
+![](https://github.com/south270/Image/blob/master/blog/2.png?raw=true)
+![](https://github.com/south270/Image/blob/master/blog/3.png?raw=true)
 
-### 四、工作清单
+<h3 id="4"> 四、工作清单 </h3>
 
 负责后台架构的整体设计与代码书写，数据库的交互，前端的对接，及项目的部署。
 
-### 五、个人博客
+<h3 id="5"> 五、个人博客 </h3>
 
 - [初识SpringBoot](https://south270.github.io/blog/2018/04/12/first-study-report/)
 - [Docker入门](https://blog.csdn.net/south_l/article/details/80816007)
