@@ -58,3 +58,4 @@ Postmortem & Process Improvement Plan| 事后总结, 并提出过程改进计划
 - [初识SpringBoot](https://south270.github.io/blog/2018/04/12/first-study-report/)
 - [Docker入门](https://blog.csdn.net/south_l/article/details/80816007)
 - [Springboot项目集成Docker的部署](https://blog.csdn.net/south_l/article/details/80821299)
+- [Docker-compose部署](https://blog.csdn.net/south_l/article/details/80920877)
